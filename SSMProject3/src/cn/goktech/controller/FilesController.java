@@ -18,6 +18,7 @@ import cn.goktech.service.FilesService;
 
 @Controller
 public class FilesController {
+	//gengixn
 	@Resource
 	private FilesService filesServiceImpl;
 	
